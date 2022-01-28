@@ -8,3 +8,6 @@ Linear equation Recurrence
 
 Day2-
 Maths for DSA
+
+Day3-
+Recursion level 1 questions
